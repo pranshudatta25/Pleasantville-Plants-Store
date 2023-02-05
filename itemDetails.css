@@ -1,0 +1,145 @@
+.navbar {
+    background-color: #0f3923;
+}
+
+.navbar-dark .navbar-brand {
+    color: antiquewhite;
+    text-decoration: solid;
+}
+
+.navbar-dark .navbar-brand:hover {
+    color: antiquewhite;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: antiquewhite;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link {
+    background-color: #003218;
+    color: antiquewhite;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus {
+    color: antiquewhite;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link:hover {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.btn-outline-success {
+    color: papayawhip;
+    border-color: papayawhip;
+}
+
+.btn-outline-success:active {
+    background-color: #003218 !important;
+    border-color: papayawhip !important;
+    color: papayawhip !important;
+}
+
+.btn-outline-success:hover {
+    background-color: #003218;
+    border-color: papayawhip;
+    color: papayawhip;
+}
+
+.dropdown-item:active {
+    background-color: #16181b;
+}
+
+.footer {
+    background-color: #0f3923;
+    color: papayawhip;
+    text-decoration: solid;
+}
+
+#textFooter {
+    margin: 0 !important;
+}
+
+.breadcrumb {
+    /* background-image: url(images/jumbo3.jpg); */
+    background-color: white;
+}
+
+li.breadcrumb-item a {
+    color: #0f3923;
+}
+
+li.breadcrumb-item.active {
+    color: #0f3923;
+}
+
+.checked {
+    color: #e1989a;
+}
+
+#viewAll {
+    background-color: #e1989a;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 40%;
+    margin-right: 2%;
+}
+
+#viewAll:hover {
+    border: 2px solid #e1989a;
+    background-color: papayawhip;
+    color: #e1989a;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    width: 40%;
+
+}
+
+#abtPlant {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(15, 57, 35), rgba(0, 0, 0, 0));
+}
+
+#pincodeBar {
+    background-color: white
+}
+
+#pincodeBtn {
+    border: 2px solid #0f3923;
+    color: #0f3923;
+}
+
+#pincodeBtn:hover {
+    color: papayawhip;
+}
+
+#quantity {
+    width: 30%;
+}
+
+#infoBtn {
+    background-color: white;
+    text-align: center;
+    border: 2px solid #0f3923;
+    color: #0f3923;
+}
+
+#infoBtn:hover {
+    color: papayawhip;
+    background-color: #0f3923;
+}
